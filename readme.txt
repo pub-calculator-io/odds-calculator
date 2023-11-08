@@ -2,7 +2,7 @@
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
-Tested up to: 6.3.0
+Tested up to: 6.4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,12 @@ The odds probability calculator can convert the odds of winning and losing to th
 == Description ==
 
 The odds probability calculator can convert the odds of winning and losing to the probability of winning and losing. Learn the differences between odds and probability.
+
+__Shortcode__
+
+Use the Odds Calculator shortcode:
+
+`[ci_odds_calculator]`
 
 Libraries in use:
 1. https://mathjs.org/
@@ -25,8 +31,11 @@ Libraries in use:
 
 1. Upload the /ci_odds_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Odds Calculator](https://www.calculator.io/odds-calculator/ "Odds Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-3. Configure your settings via Appearance > Widgets > Odds Calculator.
-4. And you're good to go!
+
+== Usage ==
+* Add the shortcode `[ci_odds_calculator]` to your page or post and configure default mortgage parameters.
+* If you are using widgets, just add the Odds Calculator to the sidebar through the `Appearance -> Widgets -> Odds Calculator` menu in WordPress.
+* Add the following code: `<?php display_ci_odds_calculator(); ?>` to your template where you would like the Odds Calculator to appear.
 
 == Screenshots ==
 1. The Odds Calculator Input Form.
