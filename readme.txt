@@ -13,6 +13,8 @@ The odds probability calculator can convert the odds of winning and losing to th
 
 The odds probability calculator can convert the odds of winning and losing to the probability of winning and losing. Learn the differences between odds and probability.
 
+[Odds Calculator Homepage](https://www.calculator.io/odds-calculator/ "Odds Calculator Homepage")
+
 __Shortcode__
 
 Use the Odds Calculator shortcode:
