@@ -1,6 +1,6 @@
 === Odds Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: odds calculator, betting odds, probability calculator, sports betting, gambling odds, odds conversion, odds to probability, betting probability, betting calculator, wager odds
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
