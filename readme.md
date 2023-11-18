@@ -1,4 +1,4 @@
-# Odds Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Odds Calculator Widget for WordPress
 
 The odds probability calculator can convert the odds of winning and losing to the probability of winning and losing. Learn the differences between odds and probability.
 
