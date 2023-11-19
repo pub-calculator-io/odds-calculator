@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Odds Calculator by www.calculator.io
+Plugin Name: CI Odds calculator
 Plugin URI: https://www.calculator.io/odds-calculator/
 Description: The odds probability calculator can convert the odds of winning and losing to the probability of winning and losing. Learn the differences between odds and probability.
 Version: 1.0.0

@@ -1,4 +1,4 @@
-=== Odds Calculator by www.calculator.io ===
+=== CI Odds calculator ===
 Contributors: calculatorio
 Tags: odds calculator, betting odds, probability calculator, sports betting, gambling odds, odds conversion, odds to probability, betting probability, betting calculator, wager odds
 Requires at least: 5.0
