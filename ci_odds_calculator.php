@@ -1,0 +1,23 @@
+<?php
+/*
+Plugin Name: CI Odds calculator
+Plugin URI: https://www.calculator.io/odds-calculator/
+Description: The odds probability calculator can convert the odds of winning and losing to the probability of winning and losing. Learn the differences between odds and probability.
+Version: 1.0.0
+Author: Odds Calculator / www.calculator.io
+Author URI: https://www.calculator.io/
+License: GPLv2 or later
+Text Domain: ci_odds_calculator
+*/
+
+if (!defined('ABSPATH')) exit;
+
+if (!function_exists('add_shortcode')) return "No direct call for Odds Calculator by www.calculator.io";
+
+function display_calcio_ci_odds_calculator(){
+    $page = 'index.html';
+    return '<h2><img src="' . esc_url(plugins_url('assets/images/icon-48.png', __FILE__ )) . '" width="48" height="48">Odds Calculator</h2><div><iframe style="background:transparent; overflow: scroll" src="' . esc_url(plugins_url($page, __FILE__ )) . '" width="100%" frameBorder="0" allowtransparency="true" onload="this.style.height = this.contentWindow.document.documentElement.scrollHeight + \'px\';" id="ci_odds_calculator_iframe"></iframe></div>';
+}
+
+
+add_shortcode( 'ci_odds_calculator', 'display_calcio_ci_odds_calculator' );

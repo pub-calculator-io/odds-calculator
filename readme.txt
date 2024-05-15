@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Odds Calculator
 == Screenshots ==
 
 1. The Odds Calculator Input Form.
-2. The Odds Calculator Calculation Results.
 
 == Installation ==
 
